@@ -1,0 +1,23 @@
+.submit_btn input {
+    margin-top: .5rem;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    letter-spacing: .9px;
+    font-size: .9rem;
+    border-radius: 4rem;
+    text-decoration: none;
+    color: #fff;
+    background: #000;
+    /* background: linear-gradient(to right, #7afcbb, #b9fca8); */
+    border: .5px solid #000;
+    outline: none;
+}
+
+.submit_btn input:hover {
+    color:  #b9fca8;
+
+}
+
+.input_1 {
+    margin: .5rem 1rem;
+}

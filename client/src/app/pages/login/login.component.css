@@ -1,0 +1,30 @@
+.submit_btn input {
+    margin-top: .5rem;
+    width: 25%;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    letter-spacing: .9px;
+    font-size: .9rem;
+    border-radius: 4rem;
+    text-decoration: none;
+    color: #fff;
+    background: #000;
+    border: .5px solid #000;
+    outline: none;
+}
+
+.submit_btn input:hover {
+    color: #b9fca8;
+}
+
+.input_1 {
+    margin: .5rem 1rem;
+}
+.add_account {
+    text-decoration: none;
+    font-size: .9rem;
+}
+.add_account a {
+    margin-left: .5rem;
+    cursor: pointer;
+}
